@@ -1,3 +1,11 @@
+In the Enefit Energy Behavior Project we did the following:
+
+1-Created a pipeline for time series prediction.
+
+2-Performed extensive feature engineering and trained two LightGBM models.
+
+3-Integrated datasets with varying temporal resolutions for precise forecasting.
+ 
 The code in the provided notebook uses the following libraries:
 
 1-Pandas: For data manipulation and analysis.
